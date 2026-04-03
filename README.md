@@ -1,6 +1,10 @@
 # 🏃‍♂️ Carpet Run 🛋️
 > **The ultimate challenge between sliding carpets and moving platforms!** Welcome to the official **Carpet Run** repository. A fast-paced platformer where speed and reflexes are everything. Challenge your friends in local multiplayer or master the tracks alone!
 
+<p align="center">
+  <img src="game.png" width="600" title="Carpet Run Gameplay">
+</p>
+
 ---
 
 ## 🎮 Key Features
