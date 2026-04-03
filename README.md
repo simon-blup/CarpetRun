@@ -32,4 +32,16 @@ Click the links below to get the latest version from the **Releases** section.
 3. Launch the app and enjoy!
 
 ---
+
+## 🎮 Controls
+
+| Action | PC (Keyboard) | PC (Controller) | Mobile (Touch) |
+| :--- | :--- | :--- | :--- |
+| **Move** | `W`, `A`, `S`, `D` | Left Stick | Virtual Joystick |
+| **Jump** | `Space` | Button South (A) | Jump Button |
+| **Crouch** | `Left Ctrl` | Button West (X) | Sit Button |
+| **Ready** | `Space` (Lobby) | Button South (A) | Ready Button |
+| **Pause** | `Escape` | Start Button | Pause Icon |
+
+---
 *Developed with ❤️ using Unity*
