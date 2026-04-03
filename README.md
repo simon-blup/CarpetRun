@@ -15,8 +15,8 @@ Click the links below to get the latest version from the **Releases** section.
 
 | Platform | Status | Download Link |
 | :--- | :--- | :--- |
-| **Windows (PC)** | ✅ Stable | [Download .zip](https://github.com/simon-blup/CarpetRun/releases/download/v1.0/CarpetRun.zip) |
-| **Android (APK)** | ✅ Stable | [Download .apk]([YOUR_RELEASE_LINK](https://github.com/simon-blup/CarpetRun/releases/download/v1.0/CarpetRun_Android_v1.0.apk)) |
+| **Windows (PC)** | ✅ Stable | [Download.zip](https://github.com/simon-blup/CarpetRun/releases/download/v1.0/CarpetRun.zip) |
+| **Android (APK)** | ✅ Stable | [Download.apk](https://github.com/simon-blup/CarpetRun/releases/download/v1.0/CarpetRun_Android_v1.0.apk) |
 
 ---
 
