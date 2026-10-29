@@ -1,4 +1,4 @@
-# 🏃‍♂️ Carpet Run 🛋️
+# Carpet Run
 > **The ultimate challenge between sliding carpets and moving platforms!** Welcome to the official **Carpet Run** repository. A fast-paced platformer where speed and reflexes are everything. Challenge your friends in local multiplayer or master the tracks alone!
 
 <p align="center">
@@ -8,13 +8,13 @@
 ---
 
 ## 🎮 Key Features
-* 🕹️ **Local Multiplayer:** Support for up to 4 players simultaneously.
-* 📱 **Cross-Platform:** Play on PC with Keyboard/Controller or on Android with the on-screen joystick.
-* ⚡ **Performance:** Lightweight graphics optimized for smooth gameplay on both Desktop and Mobile.
+*  **Local Multiplayer:** Support for up to 4 players simultaneously.
+*  **Cross-Platform:** Play on PC with Keyboard/Controller or on Android with the on-screen joystick.
+*  **Performance:** Lightweight graphics optimized for smooth gameplay on both Desktop and Mobile.
 
 ---
 
-## 📥 Download & Play
+## Download & Play
 Click the links below to get the latest version from the **Releases** section.
 
 | Platform | Status | Download Link |
@@ -24,7 +24,7 @@ Click the links below to get the latest version from the **Releases** section.
 
 ---
 
-## 🛠️ Installation Guide
+##  Installation Guide
 ### Windows PC
 1. Download the `.zip` file from the Release section.
 2. Extract the folder to your Desktop.
@@ -36,16 +36,4 @@ Click the links below to get the latest version from the **Releases** section.
 3. Launch the app and enjoy!
 
 ---
-
-## 🎮 Controls
-
-| Action | PC (Keyboard) | PC (Controller) | Mobile (Touch) |
-| :--- | :--- | :--- | :--- |
-| **Move** | `W`, `A`, `S`, `D` | Left Stick | Virtual Joystick |
-| **Jump** | `Space` | Button South (A) | Jump Button |
-| **Crouch** | `Left Ctrl` | Button West (X) | Sit Button |
-| **Ready** | `Space` (Lobby) | Button South (A) | Ready Button |
-| **Pause** | `Escape` | Start Button | Pause Icon |
-
----
-*Developed with ❤️ using Unity*
+*Developed using Unity 3d made in blender*
